@@ -1,1 +1,3 @@
-# my-coding
+this is c++ coding
+
+goodbye
